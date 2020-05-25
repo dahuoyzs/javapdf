@@ -2,7 +2,7 @@
 
 # Java 技术书籍大全 PDF
 
-👍 👍 👍 推荐一个在线搜PDF的神器：https://www.jiumodiary.com/
+
 
 ------
 
