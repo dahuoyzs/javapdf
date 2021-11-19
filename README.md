@@ -16,6 +16,26 @@
 
 
 
+## 工具
+
+[鸠摩搜索](https://www.jiumodiary.com/)    (文档搜索引擎 )
+
+[OCRmyPDF]([jbarlow83/OCRmyPDF: OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (github.com)](https://github.com/jbarlow83/OCRmyPDF))    (扫描件PDF 转 可复制PDF)    [OCRmyPDF使用教程](OCRmyPDF使用教程.md)
+
+[朗读女](https://www.onlinedown.net/soft/112684.htm)     (帮你倍速阅读PDF)
+
+ 
+
+
+
+## 问题
+
+问：为什么不整体打包分享？
+
+答：因为链接容易失效。而且本项目的核心目的就是为了放兄弟们学进去。而不是一键收藏，放在云盘里吃灰。
+
+
+
 ## java
 
 ##### Head First Java(第2版)中文版.pdf
