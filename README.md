@@ -20,7 +20,9 @@
 
 [鸠摩搜索](https://www.jiumodiary.com/)    (文档搜索引擎 )
 
-[OCRmyPDF]([jbarlow83/OCRmyPDF: OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (github.com)](https://github.com/jbarlow83/OCRmyPDF))    (扫描件PDF 转 可复制PDF)    [OCRmyPDF使用教程](OCRmyPDF使用教程.md)
+[OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)    (扫描件PDF 转 可复制PDF)   
+
+[OCRmyPDF使用教程-中文](OCRmyPDF使用教程.md)
 
 [朗读女](https://www.onlinedown.net/soft/112684.htm)     (帮你倍速阅读PDF)
 
